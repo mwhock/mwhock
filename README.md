@@ -7,7 +7,6 @@
 - 🤔 I’m looking for help with ... Networking
 - 💬 Ask me about ... Kenzie Academy, Teaching, or anything else!
 - 📫 How to reach me: mwhock@gmail.com or https://www.linkedin.com/in/michael-h-1537417/
-- 
 - ⚡ Fun fact: ... I recently graduated from Kenzie Academy with an Associate Front-end Developer certificate.
 
 <!--

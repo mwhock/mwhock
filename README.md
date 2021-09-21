@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on ...Looking for Job opportunities and my internship with USI.
 - 🌱 I’m currently learning ... React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on ... Job Search strategies
+- 🤔 I’m looking for help with ... Networking
 - 💬 Ask me about ... Kenzie Academy, Teaching, or anything else!
-- 📫 How to reach me: mwhock@gmail.com
-- 😄 Pronouns: ...
+- 📫 How to reach me: mwhock@gmail.com or https://www.linkedin.com/in/michael-h-1537417/
+- 
 - ⚡ Fun fact: ... I recently graduated from Kenzie Academy with an Associate Front-end Developer certificate.
 
 <!--
